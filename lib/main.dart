@@ -41,7 +41,7 @@ class _BasketBallAppState extends State<BasketBallApp> {
                 Column(
                   children: [
                     const Text(
-                      'Team AA',
+                      'Team A',
                       style: TextStyle(
                         fontSize: 32,
                       ),
